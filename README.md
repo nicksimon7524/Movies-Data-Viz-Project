@@ -1,4 +1,4 @@
-# Movies-Data-Viz-Project
+# Semi-Guided Movies Data Viz Project
 
 (**Note**: I consider this project "semi-guided" because parts of the analysis are my own, while other parts
 were provided via the guided-project link referenced below.)
